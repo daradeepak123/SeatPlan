@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="scripts.PhpTravels_HomePage_Test"/>
+      <class name="scripts.PhpTravels_DemoPage_Test"/>
+      <class name="scripts.PhpTravels_SignUpPage_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
